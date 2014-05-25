@@ -15,7 +15,7 @@ and place that in the current working directory.
 And then you can run 
 ```r
 source('./run_analysis.R')
-run.analysis() # invoke the actual function
+run.analysis()
 ```
 
 ##Data Sets
